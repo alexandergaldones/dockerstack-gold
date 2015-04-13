@@ -1,0 +1,2 @@
+# dockerstack-gold
+DockerProject
